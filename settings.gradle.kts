@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RealtimeDisplay"
 include(":app")
- 
+include(":core")
