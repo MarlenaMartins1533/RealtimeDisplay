@@ -67,5 +67,14 @@ Essa combinação de ferramentas e padrões vai te ajudar a construir aplicativo
 
 
 
+Project Owner:
+        Marlena Martins e Flávio Sapucaia.
+
 obs: As estratégias, alterações, decisões e documentações, estão sendo desenvolvidas e apresentadas em um rascunho de projeto criado nesta mesma plataforma com o objetivo apenas de estudo no link abaixo:
 https://github.com/users/MarlenaMartins1533/projects/1
+
+obs: É permitido o estudo e evolução desse projeto; contudo não é permitido a cópia e uso comercial do código nem do projeto.
+É possível replicar os passos do projeto com alterações utilizando as plataformas de IA's e prompts mais elaborados, para criação de um projeto/modelo próprio mais útil para sua proposta ou ferramenta comercial. 
+Faça o seu com passos simples, siga a WIKI...
+
+
