@@ -67,8 +67,7 @@ Essa combinação de ferramentas e padrões vai te ajudar a construir aplicativo
 
 
 
-Project Owner:
-        Marlena Martins e Flávio Sapucaia.
+Project Owner Marlena Martins e Desenvolvedor Mobile Flávio Sapucaia.
 
 obs: As estratégias, alterações, decisões e documentações, estão sendo desenvolvidas e apresentadas em um rascunho de projeto criado nesta mesma plataforma com o objetivo apenas de estudo no link abaixo:
 https://github.com/users/MarlenaMartins1533/projects/1
